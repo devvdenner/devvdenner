@@ -1,10 +1,10 @@
 # Hello, I'm Denner Nascimento 👋
 
-<img align="right" alt="GIF" height="160px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+
 
 ## Senior Frontend Engineer
 
-With over 5 years of professional experience crafting exceptional web applications, I specialize in building scalable, performant, and user-centric solutions using modern JavaScript frameworks and the complete frontend ecosystem.
+With over 5 years of professional experience crafting exceptional web applications, <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />I specialize in building scalable, performant, and user-centric solutions using modern JavaScript frameworks and the complete frontend ecosystem.
 
 ### 🚀 What I Do
 
